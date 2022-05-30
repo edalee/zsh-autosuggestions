@@ -58,7 +58,7 @@
 2. Add the following to your `.zshrc`:
 
     ```sh
-    source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+    source ~/.zsh/zsh-autosuggestion/zsh-autosuggestions.zsh
     ```
 
 3. Start a new terminal session.
